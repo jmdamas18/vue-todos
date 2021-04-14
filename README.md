@@ -3,6 +3,7 @@
 ## Project setup
 ```
 npm install
+BF8Y8-GN2QH-T84XB-QVY3B-RC4DF
 ```
 
 ### Compiles and hot-reloads for development
